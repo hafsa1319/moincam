@@ -1060,12 +1060,11 @@ a {
 .cid-sFCw1qGFAI li {
   border-radius: 25px;
   margin: 5px 0;
-  padding: 6px 10px;
+  padding: 5px 5px;
 }
 .cid-sFCw1qGFAI li:hover {
   box-shadow: 0 5px 15px grey;
   cursor: pointer;
-  background-color: white;
 }
 .cid-sFzxmVl7J6 {
   padding-top: 10rem;
@@ -1124,7 +1123,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sFzz5E692j .text-wrapper {
-    padding: 4 4rem;
+    padding: 4rem 4rem;
   }
 }
 @media (max-width: 768px) {
@@ -1151,11 +1150,15 @@ a {
 }
 .cid-sFzFvgBfc0 .item-wrapper {
   position: relative;
-  border-radius: 4px;
+  padding-top: 20px;
+  border-radius: 25px;
   background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
+  box-shadow: 0 5px 15px grey;
+  cursor: pointer;
+  background-color: white;
 }
 @media (min-width: 992px) {
   .cid-sFzFvgBfc0 .item-wrapper .item-content {
@@ -1514,7 +1517,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tc4FFG8zH7 .text-wrapper {
-    padding: 4 4rem;
+    padding: 4rem 4rem;
   }
 }
 @media (max-width: 768px) {
@@ -1837,6 +1840,7 @@ a {
   cursor: pointer;
   background-color: white;
   border-radius: 25px;
+  padding-bottom: 15px;
 }
 .cid-tc5bZAA37U .plan-header,
 .cid-tc5bZAA37U .plan-body {
@@ -1983,7 +1987,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tc5urLLmjd .text-wrapper {
-    padding: 4 4rem;
+    padding: 4rem 4rem;
   }
 }
 @media (max-width: 768px) {
@@ -2579,12 +2583,11 @@ a {
 .cid-tc5Hzc0xsY li {
   border-radius: 25px;
   margin: 5px 0;
-  padding: 6px 10px;
+  padding: 5px 5px;
 }
 .cid-tc5Hzc0xsY li:hover {
   box-shadow: 0 5px 15px grey;
   cursor: pointer;
-  background-color: white;
 }
 .cid-tc4aqWeIXd {
   padding-top: 8rem;
@@ -3013,12 +3016,11 @@ a {
 .cid-tc5HIs249k li {
   border-radius: 25px;
   margin: 5px 0;
-  padding: 6px 10px;
+  padding: 5px 5px;
 }
 .cid-tc5HIs249k li:hover {
   box-shadow: 0 5px 15px grey;
   cursor: pointer;
-  background-color: white;
 }
 .cid-tc5G8BKfij {
   padding-top: 8rem;
@@ -3447,12 +3449,11 @@ a {
 .cid-tc5HOitJYp li {
   border-radius: 25px;
   margin: 5px 0;
-  padding: 6px 10px;
+  padding: 5px 5px;
 }
 .cid-tc5HOitJYp li:hover {
   box-shadow: 0 5px 15px grey;
   cursor: pointer;
-  background-color: white;
 }
 .cid-tc5GjT5Xo3 {
   padding-top: 7rem;
@@ -3881,12 +3882,11 @@ a {
 .cid-tc5HRQyhHH li {
   border-radius: 25px;
   margin: 5px 0;
-  padding: 6px 10px;
+  padding: 5px 5px;
 }
 .cid-tc5HRQyhHH li:hover {
   box-shadow: 0 5px 15px grey;
   cursor: pointer;
-  background-color: white;
 }
 .cid-tc5GCIHLVE {
   padding-top: 8rem;
@@ -4315,12 +4315,11 @@ a {
 .cid-tc5LX49WdV li {
   border-radius: 25px;
   margin: 5px 0;
-  padding: 6px 10px;
+  padding: 5px 5px;
 }
 .cid-tc5LX49WdV li:hover {
   box-shadow: 0 5px 15px grey;
   cursor: pointer;
-  background-color: white;
 }
 .cid-tc5Lvq7rYA {
   padding-top: 135px;
