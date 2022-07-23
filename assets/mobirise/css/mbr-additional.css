@@ -5,7 +5,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 4rem;
   line-height: 1.1;
 }
@@ -13,7 +13,7 @@ body {
   font-size: 5rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -21,7 +21,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -29,7 +29,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -37,7 +37,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -598,7 +598,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -612,7 +612,7 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1737,7 +1737,7 @@ a {
   color: #000000;
 }
 .cid-tc5sx2GkTW .mbr-section-subtitle {
-  color: #002549;
+  color: #000000;
 }
 .cid-tc5sx2GkTW .mbr-media {
   position: relative;
@@ -1875,6 +1875,9 @@ a {
   .cid-tc5vOg6Fpp .text-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-tc5vOg6Fpp li {
+  font-size: 18px;
 }
 .cid-tc5ye95tw0 {
   padding-top: 3rem;
