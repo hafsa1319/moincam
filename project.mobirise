@@ -96,7 +96,9 @@
     "screenshot": "screenshot.png",
     "global_header_custom": "<script src=\"https://cdn.gravitec.net/storage/14111d429844a57307f62bf4891c823f/client.js\" async></script>\n",
     "global_after_body": "<script async src=\"https://cdn.onthe.io/io.js/asxhhPfzrP5i\"></script>",
-    "site_lang": "de"
+    "site_lang": "de",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
