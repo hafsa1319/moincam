@@ -64,7 +64,7 @@
     "PWA": {
       "enabled": true,
       "name": "",
-      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/icon-removebg-preview-512x512.png",
       "themeColor": "#0fbc49"
     },
     "mbrsiteDomain": "um5lvmuxab",
@@ -96,7 +96,9 @@
     "screenshot": "screenshot.png",
     "global_header_custom": "<script src=\"https://cdn.gravitec.net/storage/14111d429844a57307f62bf4891c823f/client.js\" async></script>\n",
     "global_after_body": "<script async src=\"https://cdn.onthe.io/io.js/asxhhPfzrP5i\"></script>",
-    "site_lang": "de"
+    "site_lang": "de",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1093,8 +1095,7 @@
               }
             },
             "li": {
-              "font-size": "18px",
-              "font-family": "roboto"
+              "font-size": "18px"
             },
             ".image-wrapper": {
               "@media (max-width: 991px)": {
@@ -1693,8 +1694,7 @@
               "padding-bottom": "4rem"
             },
             "li, p": {
-              "font-size": "18px",
-              "font-family": "roboto"
+              "font-size": "18px"
             }
           },
           "_name": "header14",
@@ -1765,8 +1765,7 @@
               }
             },
             "li": {
-              "font-size": "18px",
-              "font-family": "roboto"
+              "font-size": "18px"
             }
           },
           "_name": "header14",
